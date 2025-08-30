@@ -4,14 +4,7 @@ This is a **Java implementation of the classic Othello (Reversi) game** with:
 - **Game Logic** (rules engine)  
 - **Graphical User Interface (GUI)** using Swing  
 - **Artificial Intelligence (AI)** opponent using **Minimax with Alpha-Beta Pruning**  
-- **Game Launcher**  
-
----
-
-## 📂 Project Structure
-
-
-
+- **Game Launcher** 
 
 ---
 
