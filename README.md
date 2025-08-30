@@ -9,11 +9,8 @@ This is a **Java implementation of the classic Othello (Reversi) game** with:
 ---
 
 ## 📂 Project Structure
-OthelloGame/
-│── OthelloBoard.java # Core game logic (rules, board state, scoring)
-│── OthelloGUI.java # Swing-based user interface
-│── OthelloAI.java # AI opponent (Minimax with Alpha-Beta pruning)
-│── OthelloGame.java # Main launcher (entry point)
+
+
 
 
 ---
